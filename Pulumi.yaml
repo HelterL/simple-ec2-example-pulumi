@@ -1,0 +1,6 @@
+name: pulumi-infra-test
+description: Subindo ec2 com pulumi
+runtime:
+    name: python
+    options:
+        virtualenv: venv
